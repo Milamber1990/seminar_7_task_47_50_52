@@ -1,0 +1,15 @@
+/home/andrey/Рабочий стол/Учеба/C#/функции/seminar_7_task_47_50_52/task_52/bin/Debug/net6.0/task_52
+/home/andrey/Рабочий стол/Учеба/C#/функции/seminar_7_task_47_50_52/task_52/bin/Debug/net6.0/task_52.deps.json
+/home/andrey/Рабочий стол/Учеба/C#/функции/seminar_7_task_47_50_52/task_52/bin/Debug/net6.0/task_52.runtimeconfig.json
+/home/andrey/Рабочий стол/Учеба/C#/функции/seminar_7_task_47_50_52/task_52/bin/Debug/net6.0/task_52.dll
+/home/andrey/Рабочий стол/Учеба/C#/функции/seminar_7_task_47_50_52/task_52/bin/Debug/net6.0/ref/task_52.dll
+/home/andrey/Рабочий стол/Учеба/C#/функции/seminar_7_task_47_50_52/task_52/bin/Debug/net6.0/task_52.pdb
+/home/andrey/Рабочий стол/Учеба/C#/функции/seminar_7_task_47_50_52/task_52/obj/Debug/net6.0/task_52.csproj.AssemblyReference.cache
+/home/andrey/Рабочий стол/Учеба/C#/функции/seminar_7_task_47_50_52/task_52/obj/Debug/net6.0/task_52.GeneratedMSBuildEditorConfig.editorconfig
+/home/andrey/Рабочий стол/Учеба/C#/функции/seminar_7_task_47_50_52/task_52/obj/Debug/net6.0/task_52.AssemblyInfoInputs.cache
+/home/andrey/Рабочий стол/Учеба/C#/функции/seminar_7_task_47_50_52/task_52/obj/Debug/net6.0/task_52.AssemblyInfo.cs
+/home/andrey/Рабочий стол/Учеба/C#/функции/seminar_7_task_47_50_52/task_52/obj/Debug/net6.0/task_52.csproj.CoreCompileInputs.cache
+/home/andrey/Рабочий стол/Учеба/C#/функции/seminar_7_task_47_50_52/task_52/obj/Debug/net6.0/task_52.dll
+/home/andrey/Рабочий стол/Учеба/C#/функции/seminar_7_task_47_50_52/task_52/obj/Debug/net6.0/ref/task_52.dll
+/home/andrey/Рабочий стол/Учеба/C#/функции/seminar_7_task_47_50_52/task_52/obj/Debug/net6.0/task_52.pdb
+/home/andrey/Рабочий стол/Учеба/C#/функции/seminar_7_task_47_50_52/task_52/obj/Debug/net6.0/task_52.genruntimeconfig.cache

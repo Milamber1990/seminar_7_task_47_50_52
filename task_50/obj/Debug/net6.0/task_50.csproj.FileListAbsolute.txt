@@ -1,0 +1,15 @@
+/home/andrey/Рабочий стол/Учеба/C#/функции/seminar_7_task_47_50_52/task_50/obj/Debug/net6.0/task_50.csproj.AssemblyReference.cache
+/home/andrey/Рабочий стол/Учеба/C#/функции/seminar_7_task_47_50_52/task_50/obj/Debug/net6.0/task_50.GeneratedMSBuildEditorConfig.editorconfig
+/home/andrey/Рабочий стол/Учеба/C#/функции/seminar_7_task_47_50_52/task_50/obj/Debug/net6.0/task_50.AssemblyInfoInputs.cache
+/home/andrey/Рабочий стол/Учеба/C#/функции/seminar_7_task_47_50_52/task_50/obj/Debug/net6.0/task_50.AssemblyInfo.cs
+/home/andrey/Рабочий стол/Учеба/C#/функции/seminar_7_task_47_50_52/task_50/obj/Debug/net6.0/task_50.csproj.CoreCompileInputs.cache
+/home/andrey/Рабочий стол/Учеба/C#/функции/seminar_7_task_47_50_52/task_50/bin/Debug/net6.0/task_50
+/home/andrey/Рабочий стол/Учеба/C#/функции/seminar_7_task_47_50_52/task_50/bin/Debug/net6.0/task_50.deps.json
+/home/andrey/Рабочий стол/Учеба/C#/функции/seminar_7_task_47_50_52/task_50/bin/Debug/net6.0/task_50.runtimeconfig.json
+/home/andrey/Рабочий стол/Учеба/C#/функции/seminar_7_task_47_50_52/task_50/bin/Debug/net6.0/task_50.dll
+/home/andrey/Рабочий стол/Учеба/C#/функции/seminar_7_task_47_50_52/task_50/bin/Debug/net6.0/ref/task_50.dll
+/home/andrey/Рабочий стол/Учеба/C#/функции/seminar_7_task_47_50_52/task_50/bin/Debug/net6.0/task_50.pdb
+/home/andrey/Рабочий стол/Учеба/C#/функции/seminar_7_task_47_50_52/task_50/obj/Debug/net6.0/task_50.dll
+/home/andrey/Рабочий стол/Учеба/C#/функции/seminar_7_task_47_50_52/task_50/obj/Debug/net6.0/ref/task_50.dll
+/home/andrey/Рабочий стол/Учеба/C#/функции/seminar_7_task_47_50_52/task_50/obj/Debug/net6.0/task_50.pdb
+/home/andrey/Рабочий стол/Учеба/C#/функции/seminar_7_task_47_50_52/task_50/obj/Debug/net6.0/task_50.genruntimeconfig.cache
